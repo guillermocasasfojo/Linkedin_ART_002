@@ -20,7 +20,7 @@ A 12NC consists of twelve decimal digits, conventionally grouped as `NNNN NNN NN
 
 ## Reference tables
 
-- [Digits 1–2: Product Groups (HIG)](tables/product-groups-hig.md) — also available as [CSV](tables/product-groups-hig.csv)
+- [Digits 1–2: Product Groups (HIG)](product-groups-hig.md) — also available as [CSV](product-groups-hig.csv)
 - Digits 3–4: Coding Centres *(coming soon)*
 - Product Codes (pre-12NC system) *(coming soon)*
 
