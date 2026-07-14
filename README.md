@@ -22,7 +22,6 @@ A 12NC consists of twelve decimal digits, conventionally grouped as `NNNN NNN NN
 
 - [Digits 1–2: Product Groups (HIG)](product-groups-hig.md) — also available as [CSV](product-groups-hig.csv)
 - [Digits 3–4: Coding Centres](coding-centres.md) — also available as [CSV](coding-centres.csv)
-- Product Codes (pre-12NC system) *(coming soon)*
 
 ## Disclaimer
 
@@ -31,10 +30,9 @@ This is a historical reconstruction exercise based on available evidence. It is 
 ## Sources
 
 - Griens J.H., *"PDM in de PPD: analyse en herontwerp van het productgegevensbeheer bij de ontwikkelingafdeling van Philips Display Components"*, Eindhoven University of Technology, 1999.
-- Gerard's Radio Corner *(add link)*
-- Maximus-Randd *(add link)*
-- *(add further sources)*
+- Gerard's Radio Corner *(https://gerardtel.nl/Articles/PhilType.htm#thilet)*
+- Maximus-Randd *(https://www.maximus-randd.com/tv-tuner-history-pt2.html#12nc)*
 
 ## Author
 
-Guillermo Casas Fojo — *Thinking About PLM* newsletter *(add link)*
+Guillermo Casas Fojo — *Thinking About PLM* newsletter *(https://www.linkedin.com/newsletters/thinking-about-plm-7479924860673114112/)*
