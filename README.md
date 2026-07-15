@@ -35,4 +35,4 @@ This is a historical reconstruction exercise based on available evidence. It is 
 
 ## Author
 
-Guillermo Casas Fojo — [*Thinking About PLM* newsletter](https://www.linkedin.com/newsletters/thinking-about-plm-7479924860673114112/)
+Guillermo Casás Fojo — [*Thinking About PLM* newsletter](https://www.linkedin.com/newsletters/thinking-about-plm-7479924860673114112/)
