@@ -43,5 +43,6 @@ code,product_group,note
 90,"Consumer electronics",
 91,"Signify (Philips Hue)",
 92,"Lighting (Lumileds, Signify)",
-93,"Transistors","Found in some MOSFET"
+93,"Transistors","Found in some MOSFET",
+94,"Unknown / Uncategorized","Found in some Pulse Generators",
 95,"Military electronics, Telecom",
