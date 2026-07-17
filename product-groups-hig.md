@@ -51,6 +51,7 @@ The first two digits of a Philips 12NC identify the **Product Group**, in Philip
 | 91 | Signify (Philips Hue) | — |
 | 92 | Lighting (Lumileds, Signify) | — |
 | 93 | Transistors | Found in some MOSFET |
+| 94 | Unknown / Uncategorized | Found in some Pulse Generators |
 | 95 | Military electronics, Telecom | — |
 
 ## Sources
